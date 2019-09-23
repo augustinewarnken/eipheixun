@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oobeikahpa.woofgangdogwalking.com/sitemap.xml
